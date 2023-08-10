@@ -1,2 +1,2 @@
 # bankaccountsystem
-In this project i build a bank account system learning the concepts of Object Orientation 
+Project of a bank account system learning the concepts of Object Orientation usign class, def __init__, self, getters, setters and @staticmethod.
